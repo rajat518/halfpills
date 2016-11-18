@@ -1,0 +1,2 @@
+This program is used to calculate the ratio of half pills in a bottle to the total number of pills in a bottle.
+ 50 full pills and 100 full pills are used to generate 10 sets of ratios. These sets of ratios are stored in   10 arrays for further analysis
